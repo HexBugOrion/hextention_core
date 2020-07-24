@@ -1,3 +1,9 @@
 {
-  "block.hextension_core.quartzite": "Quartzite"
+  "block.hextension_core.quartzite": "Quartzite",
+
+  "item.hextension_core.copper_sword": "Copper Sword",
+  "item.hextension_core.copper_ingot": "Copper Ingot",
+
+  "itemGroup.hextension_core.hextension_misc": "Hextended Items",
+  "itemGroup.hextension_core.hextension_combat": "Hextended Combat"
 }

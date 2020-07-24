@@ -1,4 +1,4 @@
-package net.oriondev.hextension_core.toolmaterials;
+package net.oriondev.hextension_core.materials;
 
 import net.minecraft.item.ToolMaterial;
 import net.minecraft.recipe.Ingredient;
